@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlyssaMalinoff
-- I am currently a DBA for Oracle and I'm looking to improve my python skills
+- I am currently a DBA for Oracle and I'm looking to improve my Python skills
 - Thanks for stopping by!~
 
 
